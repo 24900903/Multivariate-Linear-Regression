@@ -18,7 +18,7 @@ Define features (x) and target (y) from the dataset.
 Train the Linear Regression model with fit().
 
 ### Step5
-Retrieve coefficients, intercept, and predict CO2 for new input using predict().
+Retrieve coefficients, intercept, and predict CO2 for new input using predict()
 
 ## Program:
 ```
