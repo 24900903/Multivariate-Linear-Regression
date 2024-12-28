@@ -43,7 +43,8 @@ ans=model.predict(input_data)
 print(ans)```
 
 ## Output:
-![m12](https://github.com/user-attachments/assets/3f5eed8d-b823-4d1e-87ea-48b6ea1fd284)
+
+![image](https://github.com/user-attachments/assets/7f91fdfa-84b7-4590-a44e-e5da79c9a594)
 
 
 ## Result
