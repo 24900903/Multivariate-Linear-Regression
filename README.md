@@ -44,8 +44,7 @@ print(ans)```
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/7f91fdfa-84b7-4590-a44e-e5da79c9a594)
-
+![m12](https://github.com/user-attachments/assets/664eeff7-547f-42b2-8441-c4480392d8d8)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
