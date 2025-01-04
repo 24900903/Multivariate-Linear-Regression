@@ -43,8 +43,8 @@ ans=model.predict(input_data)
 print(ans)```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/1bb3cc43-060b-4d8a-9347-3781daf57fe9)
 
-![m12](https://github.com/user-attachments/assets/664eeff7-547f-42b2-8441-c4480392d8d8)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
