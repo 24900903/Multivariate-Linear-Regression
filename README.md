@@ -6,8 +6,8 @@
   Hardware – PCs
   Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-   Step1: Import pandas for data manipulation and linear_model from sklearn for regression.
-   Step2: Load the CSV file carsemission.csv into a dataframe using pd.read_csv
+   *Import pandas for data manipulation and linear_model from sklearn for regression.
+   *Step2: Load the CSV file carsemission.csv into a dataframe using pd.read_csv
    Step3: Define X as a dataframe containing the weight and volume columns. Define y as the CO2 column which is the value to predict.
    Step4: Create a linear regression model instance using linear_model.LinearRegression(). Train the model with the data by calling regr.fit(X,y)
    Step5: Access model coefficients with regr.coef_,showing the weight of each feature. Access the intercept term with regr.intercept_,representing the baseline CO2
